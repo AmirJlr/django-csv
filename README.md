@@ -13,7 +13,7 @@
   
 
   
-  <h2>Admin Panel :</h2>
+  <h2>- Admin Panel :</h2>
 
   <h4>upload a csv file :</h4>
   <img src='readme/1.png' />
@@ -24,7 +24,7 @@
   <h4>created model's instances</h4>
   <img src='readme/3.png' />
 
-  <h2>Custom View :</h2>
+  <h2>- Custom View :</h2>
   <img src='readme/4.png' />
  
   
