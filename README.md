@@ -24,7 +24,7 @@
   <h4>created model's instances</h4>
   <img src='readme/3.png' />
 
-  Custom View :
+  <h2>Custom View :</h2>
   <img src='readme/4.png' />
  
   
