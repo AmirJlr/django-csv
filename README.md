@@ -11,7 +11,21 @@
   
   Upload csv files from <b>Admin panel</b> or <b>Custom View</b>
   
+
   
+  <h2>Admin Panel :</h2>
+
+  <h4>upload a csv file :</h4>
+  <img src='readme/1.png' />
+
+  <h4>choose file</h4>
+  <img src='readme/2.png' />
+
+  <h4>created model's instances</h4>
+  <img src='readme/3.png' />
+
+  Custom View :
+  <img src='readme/4.png' />
  
   
   
